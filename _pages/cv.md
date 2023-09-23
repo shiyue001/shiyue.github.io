@@ -11,15 +11,15 @@ redirect_from:
 Education
 ---------
 
-* Ph.D: Shanghai Jiao Tong University (2019-)
-  * GPA: 3.7/4.0 (<strong>Top 1</strong>)
-  * Computer Science and Technology
-  * Computer Vision and Deep Learning,  especially Few-shot Video Action Recognition, and Cross-domain Few-shot Learning
-* B.S.: Xidian University (2015-2019) (Honours Degree)
-  * GPA: 4.2/5.0 (<strong>Top 1</strong>)
+* Ph.D: Shanghai Jiao Tong University (2019-Now)(Honorary Doctorate Program)
+  * GPA: 3.7/4.0 
+  * Information and Communication Engineering
+  * Computer Vision and Deep Learning, especially 3D Reconstruction, Rendering, and Generation
+* B.S.: Xidian University (2015-2019)(Honorary degree)
+  * GPA: 3.87/4.0 (Ranking:<strong>1</strong>/150)
   * Major: Information Engineering
 
-Services and Leadership
+<!-- Services and Leadership
 -----------------------
 
 * Journal Reviewer：Information Fusion, TMM, TCSVT，TOMM，MVAP
@@ -27,7 +27,7 @@ Services and Leadership
 * AAAI-2022 Program Committee (PC) Member
 * International Artificial Intelligence Fair (IAIF) 2021/2022 Judge
 * World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
-* China Computer Federation (CCF) Campus Propaganda Ambassador (2019-2022)
+* China Computer Federation (CCF) Campus Propaganda Ambassador (2019-2022) -->
 
 <!-- Work experience
 ======
@@ -43,20 +43,18 @@ Services and Leadership
 
 Awards
 ------
+* </strong>Outstanding Student</strong> of Shanghai Jiao Tong University (2021) (<strong>Top 2%</strong>)
+* <strong>Outstanding Graduate</strong> of Xidian University (2019) (<strong>Top 2%</strong>)
+* </strong>Meritorious Winner</strong> in International Mathematical Contest in Modeling (2018)
+* Chinese <strong>National Scholarship</strong> (2016, 2018) (<strong>Top 0.5%</strong>Nationwide)
+* </strong>Outstanding Student</strong> Cadres of Xidian University(2017)
 
-* <strong>Outstanding Student of Fudan University</strong> (2021) (<strong>Top 0.03%</strong>)
-* Graduate Chinese <strong>National Scholarship</strong> (2019) (<strong>Top 2%</strong>)
-* Chinese <strong>National Scholarship</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
-* CCF <strong>National Outstanding</strong> College Student (2017)
-* <strong>Outstanding Graduate</strong> in Zhejiang Province (2018)
-* Huawei Fellowship 2020
-* Intel Fellowship 2022
 
 Skills
 ------
 
 * **Python**, **Pytorch**
-* Latex, Vim, Matlab, Meshlab
+* Matlab, Meshlab, Blender
 
 <!-- Publications
 ======
