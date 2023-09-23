@@ -14,7 +14,7 @@ I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL </a> 
 
 My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, cross-domain few-shot learning, and few-shot video action recognition.
 
-News
+<!-- News
 ----
 
 <ul>
@@ -28,7 +28,7 @@ News
   <li>[07/2020] One paper is accepted by ACM MM 2020.</li>
   <li>[12/2019] I am awarded the Chinese National Scholarship.</li>
   <li>[07/2019] One paper is accepted by ACM MM 2019.</li>
-</ul>
+</ul> -->
 
 <!-- Selected Publications
 # To update this
