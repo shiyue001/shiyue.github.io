@@ -43,11 +43,11 @@ Education
 
 Awards
 ------
-* </strong>Outstanding Student</strong> of Shanghai Jiao Tong University (2021) (<strong>Top 2%</strong>)
+* <strong>Outstanding Student</strong> of Shanghai Jiao Tong University (2021) (<strong>Top 2%</strong>)
 * <strong>Outstanding Graduate</strong> of Xidian University (2019) (<strong>Top 2%</strong>)
-* </strong>Meritorious Winner</strong> in International Mathematical Contest in Modeling (2018)
+* <strong>Meritorious Winner</strong> in International Mathematical Contest in Modeling (2018)
 * Chinese <strong>National Scholarship</strong> (2016, 2018) (<strong>Top 0.5%</strong>Nationwide)
-* </strong>Outstanding Student</strong> Cadres of Xidian University(2017)
+* <strong>Outstanding Student</strong> Cadres of Xidian University(2017)
 
 
 Skills
