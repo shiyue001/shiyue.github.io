@@ -10,7 +10,7 @@ redirect_from:
 Biography
 ---------
 
-I am a fourth-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. <a href="https://english.seiee.sjtu.edu.cn/english/detail/842_816.htm">Wenjun Zhang</a>, co-advised by Prof. <a href="https://scholar.google.com.sg/citations?user=eUbmKwYAAAAJ&hl=en">Bingbing Ni</a>. I am now a visiting Ph.D. student in the Computer Vision Lab, ETH Zürich, Switzerland, supervised by Prof. <a href="https://scholar.google.com/citations?user=-XCiamcAAAAJ&hl=zh-CN">Fisher Yu and working closely with Dr. <a href="https://suryanshkumar.github.io/">Suryansh Kumar. Before that, I received my bachelor's degree in information engineering from Xidian University, Xi'an, China, in 2019.
+I am a fourth-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. <a href="https://english.seiee.sjtu.edu.cn/english/detail/842_816.htm">Wenjun Zhang</a>, co-advised by Prof. <a href="https://scholar.google.com.sg/citations?user=eUbmKwYAAAAJ&hl=en">Bingbing Ni</a>. I am now a visiting Ph.D. student in the Computer Vision Lab<a href="https://vision.ee.ethz.ch/">, ETH Zürich, Switzerland. Before that, I received my bachelor's degree in information engineering from Xidian University, Xi'an, China, in 2019.
 
 My research interests lie at the intersection of computer graphics and vision, including geometric reconstruction, realistic appearance rendering, and controllable 3D generation and editing.
 
