@@ -77,13 +77,11 @@ Research
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/图2.png" width="600"/>
+      <img src="../images/图5.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Garf: Geometry-aware generalized neural radiance field</span><br>
-            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">arXiv preprint, 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</span>
+            <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang, Suryansh Kumar, Fisher Yu</span></span><br>
     </th>
   </tr> 
 </table>
@@ -91,11 +89,13 @@ Research
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/图5.png" width="350"/>
+      <img src="../images/图3.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
-            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang, Suryansh Kumar, Fisher Yu</span></span><br>
+            <span style="font-size:18px">Usr: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</span>
     </th>
   </tr> 
 </table>
