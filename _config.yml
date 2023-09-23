@@ -11,9 +11,9 @@ title                    : "Welcome to Yue Shi's Homepage"
 title_separator          : "-"
 name                     : &name "Yue Shi"
 description              : &description "Yue Shi's Website"
-url                      : https://shiyue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shiyue001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shiyue001/shiyue.github.io"
+repository               : "shiyue001/shiyue001.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         : #"Fudan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=BrQQHiEAAAAJ"
-  email            :  "shiyue@sjtu.edu.cn"
+  email            :  "shiyue001@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shiyue"
+  github           : "shiyue001"
   google_plus      :
   keybase          :
   instagram        : 
