@@ -83,7 +83,7 @@ author:
   name             : "Yue Shi"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at Shanghai Jiao Tong University."
-  location         : "Shanghai"
+  # location         : "Shanghai"
   employer         : #"Fudan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=BrQQHiEAAAAJ"

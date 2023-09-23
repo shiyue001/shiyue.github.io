@@ -55,7 +55,7 @@ Research
             <span style="font-size:18px">Geometric granularity aware pixel-to-mesh</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Bingbing Ni, Jinxian Liu, Dingyi Rong, Ye Qian, Wenjun Zhang</span></span><br>
              <span style="font-weight:normal;font-size:16px">Proceedings of the IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Geometric_Granularity_Aware_Pixel-To-Mesh_ICCV_2021_paper.pdf">Paper</a>][<a href="https://github.com/lovelyqian/StyleAdv-CDFSL">Code</a>][<a href="https://youtu.be/YB-S2YF22mc">Youtube Video</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Geometric_Granularity_Aware_Pixel-To-Mesh_ICCV_2021_paper.pdf">Paper</a>]</span>
     </th>
   </tr> 
 </table>
@@ -82,6 +82,7 @@ Research
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang, Suryansh Kumar, Fisher Yu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo</a>]</span>
     </th>
   </tr> 
 </table>
@@ -95,7 +96,7 @@ Research
             <span style="font-size:18px">Usr: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>][<a href="https://github.com/shiyue001/USR">Code</a>]</span>
     </th>
   </tr> 
 </table>
