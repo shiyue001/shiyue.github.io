@@ -10,9 +10,9 @@ redirect_from:
 Biography
 ---------
 
-I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL </a> Lab, Shanghai Jiao Tong University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Wenjun Zhang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Bingbing Ni</a>. Before that, I received my bachelor's degree in information engineering from Xidian University, Xi'an, China, in 2019.
+I am a fourth-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. <a href="https://english.seiee.sjtu.edu.cn/english/detail/842_816.htm">Wenjun Zhang</a>, co-advised by Prof. <a href="https://scholar.google.com.sg/citations?user=eUbmKwYAAAAJ&hl=en">Bingbing Ni</a>. I am now a visiting Ph.D. student in the Computer Vision Lab, ETH Zürich, Switzerland, supervised by Prof. <a href="https://scholar.google.com/citations?user=-XCiamcAAAAJ&hl=zh-CN">Fisher Yu and working closely with Dr. <a href="https://suryanshkumar.github.io/">Suryansh Kumar. Before that, I received my bachelor's degree in information engineering from Xidian University, Xi'an, China, in 2019.
 
-My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, cross-domain few-shot learning, and few-shot video action recognition.
+My research interests lie at the intersection of computer graphics and vision, including geometric reconstruction, realistic appearance rendering, and controllable 3D generation and editing.
 
 <!-- News
 ----
@@ -43,7 +43,7 @@ My current research topics are computer vision and deep learning, and I am mainl
 
 </div> -->
 
-Publications
+Research
 ------------
 
 <table style="width:100%">
@@ -77,13 +77,27 @@ Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/图3.png" width="350"/>
+      <img src="../images/图2.png" width="600"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Usr: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
-            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
+            <span style="font-size:18px">Garf: Geometry-aware generalized neural radiance field</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">arXiv preprint, 2022.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/图5.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang, Suryansh Kumar, Fisher Yu</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</span>
     </th>
   </tr> 
 </table>
