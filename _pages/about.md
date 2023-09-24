@@ -66,7 +66,7 @@ Research
       <img src="../images/图2.png" width="600"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Garf: Geometry-aware generalized neural radiance field</span><br>
+            <span style="font-size:18px">GARF: Geometry-aware generalized neural radiance field</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2022.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</span>
@@ -93,7 +93,7 @@ Research
       <img src="../images/图3.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Usr: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
+            <span style="font-size:18px">USR: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>][<a href="https://github.com/shiyue001/USR">Code</a>]</span>
