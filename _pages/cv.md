@@ -13,8 +13,8 @@ Education
 
 * Ph.D: Shanghai Jiao Tong University (2019-Now)(Honorary Doctorate Program)
   * GPA: 3.7/4.0 
-  * Information and Communication Engineering
-  * Computer Vision and Deep Learning, especially 3D Reconstruction, Rendering, and Generation
+  * Information Engineering
+  * Computer Vision and ART, especially 3D Reconstruction, Rendering, and Editing
 * B.S.: Xidian University (2015-2019)(Honorary degree)
   * GPA: 3.87/4.0 (Ranking:<strong>1</strong>/150)
   * Major: Information Engineering
