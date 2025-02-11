@@ -109,6 +109,7 @@ Research
             <span style="font-size:18px">USR: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
+                  <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>]</span>
     </th>
   </tr> 
 </table>
