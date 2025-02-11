@@ -22,7 +22,7 @@ redirect_from:
     <p>Learning Geometry and Appearance for Improved Radiance Fields Editing<br /><strong>Yue Shi</strong>, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang.<br /> [<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo Link. Submitted to International Journal of Computer Vision (<strong>IJCV<strong>), Under Review.</a>]</p>
   </li>
   <li>
-    <p>Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering<br /><strong>Yue Shi</strong>, Jiezhang Cao, Yulun Zhang, Bingbing Ni, Wenjun Zhang, Marc Pollefeys, Luc Van Gool.<br /> Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT<strong>), Under Review.</a>]</p>
+    <p>Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering<br /><strong>Yue Shi</strong>, Jiezhang Cao, Yulun Zhang, Bingbing Ni, Wenjun Zhang, Marc Pollefeys, Luc Van Gool<br /> Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT<strong>), Under Review.<br /></a>]</p>
   </li>
   <li>
     <p>USR: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency<br /><strong>Yue Shi</strong>, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang<br /> arXiv preprint, 2023.<br /> [<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>][<a href="https://github.com/shiyue001/USR">Code</a>]</p>
