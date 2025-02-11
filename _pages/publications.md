@@ -30,8 +30,7 @@ redirect_from:
 <li>
  <p>Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering<br />
   <strong>Yue Shi</strong>, Jiezhang Cao, Yulun Zhang, Bingbing Ni, Wenjun Zhang, Marc Pollefeys, Luc Van Gool<br /> 
-  Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), Under Review.<br />
-  [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</p>
+  Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), Under Review.<br /></p>
 </li>
 <li>
   <p>USR: Unsupervised separated 3D garment and human reconstruction via geometry and semantic consistency<br />
