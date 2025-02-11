@@ -25,7 +25,7 @@ redirect_from:
     <p>GARF: Geometry-aware generalized neural radiance field<br /><strong>Yue Shi</strong>, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang<br /> Displays, Under Review (Minor Revision).<br /> [<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</p>
   </li>
   <li>
-    <p>Learning Geometry and Appearance for Improved Radiance Fields Editing<br /><strong>Yue Shi</strong>, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang.<br />  Submitted to International Journal of Computer Vision (<strong>IJCV<strong>), Under Review.
+    <p>Learning Geometry and Appearance for Improved Radiance Fields Editing<br /><strong>Yue Shi</strong>, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang.<br />  Submitted to International Journal of Computer Vision (<strong>IJCV</strong>), Under Review.
 [<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo Link.</a>]
 </p>
   </li>
