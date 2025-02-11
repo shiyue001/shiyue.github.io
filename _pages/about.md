@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c232c9c2-df8d-4780-9f89-aea6575eadd8)---
+---
 permalink: /
 title: "Welcome to Yue Shi's homepage"
 excerpt: "About me"
