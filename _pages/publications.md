@@ -28,13 +28,13 @@ redirect_from:
     <p>Learning Geometry and Appearance for Improved Radiance Fields Editing<br /><strong>Yue Shi</strong>, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang.<br /> [<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo Link. Submitted to International Journal of Computer Vision (<strong>IJCV<strong>), Under Review.</a>]</p>
   </li>
 <li>
-  <p>Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering<br />
+ <p>Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering<br />
   <strong>Yue Shi</strong>, Jiezhang Cao, Yulun Zhang, Bingbing Ni, Wenjun Zhang, Marc Pollefeys, Luc Van Gool<br /> 
   Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), Under Review.<br />
-  </a>]</p>
+  [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</p>
 </li>
 <li>
-  <p>USR: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency<br />
+  <p>USR: Unsupervised separated 3D garment and human reconstruction via geometry and semantic consistency<br />
   <strong>Yue Shi</strong>, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang<br /> 
   arXiv preprint, 2023.<br /> 
   [<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>]
@@ -46,14 +46,24 @@ redirect_from:
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br /> 
   [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</p>
 </li>
-  <li>
-    <p>FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly<br />Yuhan Li，Yishun Dou, <strong>Yue Shi</strong>, Yu Lei, Xuanhong Chen, Yi Zhang, Peng Zhou, Bingbing Ni<br /> arXiv preprint, 2023.<br /> [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</p>
-  </li>
-  <li>
-    <p>InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction<br />Yi Zhang, Xiaoyang Huang, Yishun Dou, <strong>Yue Shi</strong>, Rui Shi, Ye Chen, Bingbing Ni, Wenjun Zhang<br /> Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI<strong>), 2025.</a>]</p>
-      </li>
-  <li>
-    <p>FreeSegDiff: Annotation-free Saliency Segmentation with Diffusion Models<br />Chaofan Ma, Yuhuan Yang, Chen Ju, <strong>Yue Shi</strong>, Ya Zhang, Yanfeng Wang<br /> IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP<strong>), 2025.</a>]</p>
+<li>
+  <p>FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly<br />
+  Yuhan Li, Yishun Dou, <strong>Yue Shi</strong>, Yu Lei, Xuanhong Chen, Yi Zhang, Peng Zhou, Bingbing Ni<br /> 
+  arXiv preprint, 2023.<br />
+  [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</p>
+</li>
+<li>
+  <p>InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction<br />
+  Yi Zhang, Xiaoyang Huang, Yishun Dou, <strong>Yue Shi</strong>, Rui Shi, Ye Chen, Bingbing Ni, Wenjun Zhang<br /> 
+  Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025.<br />
+  [<a href="https://arxiv.org/abs/2308.10608">Paper</a>]</p>
+</li>
+<li>
+  <p>FreeSegDiff: Annotation-free Saliency Segmentation with Diffusion Models<br />
+  Chaofan Ma, Yuhuan Yang, Chen Ju, <strong>Yue Shi</strong>, Ya Zhang, Yanfeng Wang<br /> 
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP</strong>), 2025.<br />
+  [<a href="https://arxiv.org/abs/2308.10608">Paper</a>]</p>
+</li>
   </li>
 </ul>
 
