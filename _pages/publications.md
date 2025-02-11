@@ -15,7 +15,7 @@ redirect_from:
   <li>
    <p>Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering<br />
 <span style="position:relative; display:inline-block;"> 
-  <strong>Jiameng Li</strong><sup>*</sup>, 
+  Jiameng Li<sup>*</sup>, 
   <strong>Yue Shi</strong><sup>*</sup>, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool<br />
   International Conference on 3D Vision (<strong>3DV</strong>), 2021.<br /> 
   [<a href="https://arxiv.org/abs/2408.06286">Paper</a>]
