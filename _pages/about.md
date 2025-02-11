@@ -63,6 +63,19 @@ Research
 <table style="width:100%">
   <tr>
     <th width="30%">
+      <img src="../images/图5.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Jiameng Li, Yue Shi, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool</span></span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img src="../images/图2.png" width="600"/>
     </th>
     <th style="text-align:left" width="70%">
@@ -81,7 +94,7 @@ Research
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
-            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang, Suryansh Kumar, Fisher Yu</span></span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Luc Van Gool</span></span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo</a>]</span>
     </th>
   </tr> 
