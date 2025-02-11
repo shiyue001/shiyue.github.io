@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c232c9c2-df8d-4780-9f89-aea6575eadd8)---
 permalink: /
 title: "Welcome to Yue Shi's homepage"
 excerpt: "About me"
@@ -10,9 +10,9 @@ redirect_from:
 Biography
 ---------
 
-I am a fourth-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. <a href="https://english.seiee.sjtu.edu.cn/english/detail/842_816.htm">Wenjun Zhang</a>, co-advised by Prof. <a href="https://scholar.google.com.sg/citations?user=eUbmKwYAAAAJ&hl=en">Bingbing Ni</a>. I am now a visiting Ph.D. student in the <a href="https://vision.ee.ethz.ch/">Computer Vision Lab</a>, ETH Zürich, Switzerland. Before that, I received my bachelor's degree in information engineering from Xidian University, Xi'an, China, in 2019.
+I am a final-year direct Ph.D. student at Shanghai Jiao Tong University, advised by Prof. <a href="https://english.seiee.sjtu.edu.cn/english/detail/842_816.htm">Wenjun Zhang</a>, co-advised by Prof. <a href="https://scholar.google.com.sg/citations?user=eUbmKwYAAAAJ&hl=en">Bingbing Ni</a>. From November 2022 to June 2024, I was a visiting Ph.D. student at ETH Zurich, advised by Prof. <a href="https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en">Luc Van Gool</a> and Prof. <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en">Marc Pollefeys</a>. Before that, I received my bachelor's degree in information engineering from Xidian University, Xi'an, China, in 2019.
 
-My research interests lie at the intersection of computer graphics and vision, including geometric reconstruction, realistic appearance rendering, and controllable 3D generation and editing.
+My research interests lie at the intersection of computer vision and computer graphics, including 3D reconstruction, novel view synthesis, 3D generation and editing.
 
 <!-- News
 ----
