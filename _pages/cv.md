@@ -16,7 +16,7 @@ Education
   * Information Engineering
   * Computer Vision and ART, especially 3D Reconstruction, Rendering, and Editing
 * B.S.: Xidian University (2015-2019)(Honorary degree)
-  * GPA: 3.87/4.0 (Ranking:<strong>1</strong>/150)
+  * GPA: 3.82/4.0 (Ranking:<strong>1</strong>/150)
   * Major: Information Engineering
 
 <!-- Services and Leadership
