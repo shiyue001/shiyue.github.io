@@ -13,7 +13,13 @@ redirect_from:
     <p>Geometric granularity aware pixel-to-mesh<br /><strong>Yue Shi</strong>, Bingbing Ni, Jinxian Liu, Dingyi Rong, Ye Qian, Wenjun Zhang<br /> Proceedings of the IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>)，2021.<br /> [<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Geometric_Granularity_Aware_Pixel-To-Mesh_ICCV_2021_paper.pdf">Paper</a>]</p>
   </li>
   <li>
-    <p>Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering<br /><span style="position:relative; display:inline-block;">Jiameng Li, <strong><span style="position:relative; display:inline-block;">Yue Shi</strong>, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool<br /> International Conference on 3D Vision (<strong>3DV</strong>)，2021.<br /> [<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</p>
+   <p>Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering<br />
+<span style="position:relative; display:inline-block;"> 
+  <strong>Jiameng Li</strong><sup>*</sup>, 
+  <strong>Yue Shi</strong><sup>*</sup>, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool<br />
+  International Conference on 3D Vision (<strong>3DV</strong>), 2021.<br /> 
+  [<a href="https://arxiv.org/abs/2408.06286">Paper</a>]
+</p>
   </li>
   <li>
     <p>GARF: Geometry-aware generalized neural radiance field<br /><strong>Yue Shi</strong>, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang<br /> Displays, Under Review (Minor Revision).<br /> [<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</p>
