@@ -67,7 +67,11 @@ Research
     </th>
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</span><br>
-            <span style="font-size:16px"><span style="font-weight:normal">Jiameng Li<span style="position:relative; top:-10px; left:5px;">*</span>, <strong><span style="position:relative; top:-10px; left:5px;">Yue Shi</span><span style="position:relative; top:-10px; left:5px;">*</span></strong>, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool</span></span><br>
+            <span style="font-size:16px">
+  <span style="font-weight:normal">Jiameng Li<span style="position:relative; top:-2px; left:5px;">*</span>, 
+  <strong><span style="position:relative; top:0; left:5px;">Yue Shi</span><span style="position:relative; top:-2px; left:5px;">*</span></strong>, 
+  Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool</span>
+</span>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</span>
     </th>
   </tr> 
