@@ -101,7 +101,7 @@ Research
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Luc Van Gool</span></span><br>
-      <span style="font-weight:normal;font-size:16px">International Journal of Computer Vision (<strong>IJCV<\strong>), Under Review.</span><br>      
+      <span style="font-weight:normal;font-size:16px">International Journal of Computer Vision (<strong>IJCV</strong>), Under Review.</span><br>      
       <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo</a>]</span>
     </th>
   </tr> 
@@ -131,7 +131,7 @@ Research
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Yuhan Li，Yishun Dou</span>, Yue Shi<span style="font-weight:normal">, Yu Lei, Xuanhong Chen, Yi Zhang, Peng Zhou, Bingbing Ni</span></span><br>
-            <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI<\strong>), 2024.</span><br>
+            <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>strong>), 2024.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</span>
     </th>
   </tr> 
@@ -159,7 +159,7 @@ Research
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Yi Zhang, Xiaoyang Huang, Yishun Dou</span>, Yue Shi<span style="font-weight:normal">, Rui Shi, Ye Chen, Bingbing Ni, Wenjun Zhang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI<\strong>), 2025.</span><br>
+            <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>strong>), 2025.</span><br>
     </th>
   </tr> 
 </table>
