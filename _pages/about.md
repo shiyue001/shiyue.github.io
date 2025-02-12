@@ -145,7 +145,7 @@ Research
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">Deep Equilibrium Diffusion Restoration with Parallel Sampling</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Jiezhang Cao</span>, Yue Shi<span style="font-weight:normal">, Kai Zhang, Yulun Zhang, Radu Timofte, Luc Van Gool</span></span><br>
-            <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR<\strong>), 2024.</span><br>
+            <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="[https://arxiv.org/pdf/2308.10608.pdf](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Deep_Equilibrium_Diffusion_Restoration_with_Parallel_Sampling_CVPR_2024_paper.html)">Paper</a>]</span>
     </th>
   </tr> 
