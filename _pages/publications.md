@@ -23,7 +23,7 @@ redirect_from:
   [<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</p>
   </li>
   <li>
-    <p>DARF: Depth-Aware Generalizable Neural Radiance Field<br /><strong>Yue Shi</strong>, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang<br /> Accepted by Displays, 2025.<br /> [<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</p>
+    <p>DARF: Depth-Aware Generalizable Neural Radiance Field<br /><strong>Yue Shi</strong>, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang<br /> Accepted by <strong>Displays</strong>, 2025.<br /> [<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</p>
   </li>
   <li>
     <p>Learning Geometry and Appearance for Improved Radiance Fields Editing<br /><strong>Yue Shi</strong>, Rui Shi, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang.<br />  Submitted to International Journal of Computer Vision (<strong>IJCV</strong>), Under Review.
