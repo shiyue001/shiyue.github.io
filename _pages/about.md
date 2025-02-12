@@ -159,7 +159,7 @@ Research
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Yi Zhang, Xiaoyang Huang, Yishun Dou</span>, Yue Shi<span style="font-weight:normal">, Rui Shi, Ye Chen, Bingbing Ni, Wenjun Zhang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>strong>), 2025.</span><br>
+            <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025.</span>
     </th>
   </tr> 
 </table>
