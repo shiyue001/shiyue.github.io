@@ -48,10 +48,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/图1.png" width="350"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">Geometric granularity aware pixel-to-mesh</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Bingbing Ni, Jinxian Liu, Dingyi Rong, Ye Qian, Wenjun Zhang</span></span><br>
              <span style="font-weight:normal;font-size:16px">Proceedings of the IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021.</span><br>
@@ -62,10 +62,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/3dv.png" width="350"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Jiameng Li, Yue Shi, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool</span></span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</span>
@@ -75,10 +75,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/图2.png" width="600"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">GARF: Geometry-aware generalized neural radiance field</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2022.</span><br>
@@ -89,10 +89,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/图5.png" width="350"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Luc Van Gool</span></span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo</a>]</span>
@@ -102,10 +102,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/图3.png" width="350"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">USR: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
@@ -118,10 +118,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/图4.png" width="350"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Yuhan Li，Yishun Dou</span>, Yue Shi<span style="font-weight:normal">, Yu Lei, Xuanhong Chen, Yi Zhang, Peng Zhou, Bingbing Ni</span></span><br>
             <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence(AAAI), 2024.</span><br>
@@ -132,10 +132,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/sr.png" width="350"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">Deep Equilibrium Diffusion Restoration with Parallel Sampling</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Jiezhang Cao</span>, Yue Shi<span style="font-weight:normal">, Kai Zhang, Yulun Zhang, Radu Timofte, Luc Van Gool</span></span><br>
             <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.</span><br>
@@ -146,10 +146,10 @@ Research
 
 <table style="width:100%">
   <tr>
-    <th width="30%">
+    <th width="40%">
       <img src="../images/sticker.png" width="350"/>
     </th>
-    <th style="text-align:left" width="70%">
+    <th style="text-align:left" width="60%">
             <span style="font-size:18px">InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Yi Zhang, Xiaoyang Huang, Yishun Dou</span>, Yue Shi<span style="font-weight:normal">, Rui Shi, Ye Chen, Bingbing Ni, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px">Proceedings of the AAAI Conference on Artificial Intelligence(AAAI), 2025.</span><br>
