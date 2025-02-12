@@ -52,7 +52,7 @@ Research
       <img src="../images/图1.png" width="350"/>
     </th>
     <th style="text-align:left" width="60%">
-            <span style="font-size:18px">Geometric granularity aware pixel-to-mesh</span><br>
+            <span style="font-size:18px">Geometric Granularity Aware Pixel-to-Mesh</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Bingbing Ni, Jinxian Liu, Dingyi Rong, Ye Qian, Wenjun Zhang</span></span><br>
              <span style="font-weight:normal;font-size:16px">Proceedings of the IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Geometric_Granularity_Aware_Pixel-To-Mesh_ICCV_2021_paper.pdf">Paper</a>]</span>
@@ -67,7 +67,7 @@ Research
       <img src="../images/garf.png" width="600"/>
     </th>
     <th style="text-align:left" width="60%">
-            <span style="font-size:18px">DARF: Depth-aware generalized neural radiance field</span><br>
+            <span style="font-size:18px">DARF: Depth-Aware Generalized Neural Radiance Field</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px"> <strong>Displays</strong>, 2025.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/15pLy91kHP60BxlSOwPGtEYY57L1Y47JP/view?usp=drive_link">Paper</a>]</span>
