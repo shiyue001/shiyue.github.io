@@ -165,6 +165,18 @@ Research
   </tr> 
 </table>
 
+<table style="width:120%">
+  <tr>
+    <th width="40%">
+      <img src="../images/hi.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="60%">
+            <span style="font-size:18px">Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Jiezhang Cao, Yulun Zhang, Bingbing Ni, Wenjun Zhang, Marc Pollefeys, Luc Van Gool</span></span><br>
+            <span style="font-weight:normal;font-size:16px">Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), Under Review.</span>
+    </th>
+  </tr> 
+</table>
 
 
 
