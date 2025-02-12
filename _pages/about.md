@@ -67,7 +67,7 @@ Research
       <img src="../images/garf.png" width="600"/>
     </th>
     <th style="text-align:left" width="60%">
-            <span style="font-size:18px">GARF: Geometry-aware generalized neural radiance field</span><br>
+            <span style="font-size:18px">DARF: Depth-aware generalized neural radiance field</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px"> <strong>Displays</strong>, 2025.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/15pLy91kHP60BxlSOwPGtEYY57L1Y47JP/view?usp=drive_link">Paper</a>]</span>
