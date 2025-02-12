@@ -17,7 +17,7 @@ redirect_from:
 <span style="position:relative; display:inline-block;"> 
   Jiameng Li<sup>*</sup>, 
   <strong>Yue Shi</strong><sup>*</sup>, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool<br />
-  International Conference on 3D Vision (<strong>3DV</strong>), 2021.<br /> 
+  International Conference on 3D Vision (<strong>3DV</strong>), 2025.<br /> 
   [<a href="https://arxiv.org/abs/2408.06286">Paper</a>]
 </p>
   </li>
@@ -44,13 +44,13 @@ redirect_from:
   <p>Deep Equilibrium Diffusion Restoration with Parallel Sampling<br />
   Jiezhang Cao, <strong>Yue Shi</strong>, Kai Zhang, Yulun Zhang, Radu Timofte, Luc Van Gool<br /> 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br /> 
-  [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</p>
+  [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]<br /></p>
 </li>
 <li>
   <p>FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly<br />
   Yuhan Li, Yishun Dou, <strong>Yue Shi</strong>, Yu Lei, Xuanhong Chen, Yi Zhang, Peng Zhou, Bingbing Ni<br /> 
   arXiv preprint, 2023.<br />
-  [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]</p>
+  [<a href="https://arxiv.org/pdf/2308.10608.pdf">Paper</a>]<br /></p>
 </li>
 <li>
   <p>InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction<br />
