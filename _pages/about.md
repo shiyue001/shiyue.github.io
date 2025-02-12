@@ -96,7 +96,7 @@ Research
 <table style="width:120%">
   <tr>
     <th width="40%">
-      <img src="../images/edit.png" width="350"/>
+      <img src="../images/edit1.png" width="350"/>
     </th>
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
