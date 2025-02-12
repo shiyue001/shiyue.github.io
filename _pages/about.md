@@ -46,7 +46,7 @@ My research interests lie at the intersection of computer vision and computer gr
 Research
 ------------
 
-<table style="width:150%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/图1.png" width="350"/>
@@ -60,7 +60,7 @@ Research
   </tr> 
 </table>
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/3dv.png" width="350"/>
@@ -78,7 +78,7 @@ Research
 </table>
 
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/图2.png" width="600"/>
@@ -92,7 +92,7 @@ Research
   </tr> 
 </table>
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/图5.png" width="350"/>
@@ -105,7 +105,7 @@ Research
   </tr> 
 </table>
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/图3.png" width="350"/>
@@ -121,7 +121,7 @@ Research
 
 
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/图4.png" width="350"/>
@@ -135,7 +135,7 @@ Research
   </tr> 
 </table>
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/sr.png" width="350"/>
@@ -149,7 +149,7 @@ Research
   </tr> 
 </table>
 
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th width="40%">
       <img src="../images/sticker.png" width="350"/>
