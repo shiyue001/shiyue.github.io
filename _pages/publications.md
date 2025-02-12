@@ -39,7 +39,7 @@ redirect_from:
   <p>USR: Unsupervised separated 3D garment and human reconstruction via geometry and semantic consistency<br />
   <strong>Yue Shi</strong>, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang<br /> 
   arXiv preprint, 2023.<br /> 
-  [<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>]
+  [<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>]<br /></p>
 </li>
 <li>
   <p>Deep Equilibrium Diffusion Restoration with Parallel Sampling<br />
