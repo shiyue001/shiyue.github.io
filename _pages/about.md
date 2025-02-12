@@ -60,6 +60,21 @@ Research
   </tr> 
 </table>
 
+
+<table style="width:120%">
+  <tr>
+    <th width="40%">
+      <img src="../images/garf.png" width="600"/>
+    </th>
+    <th style="text-align:left" width="60%">
+            <span style="font-size:18px">GARF: Geometry-aware generalized neural radiance field</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
+            <span style="font-weight:normal;font-size:16px"> <strong>Displays</strong>, 2025.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:120%">
   <tr>
     <th width="40%">
@@ -74,21 +89,6 @@ Research
 </span><br>
              <span style="font-weight:normal;font-size:16px">International Conference on 3D Vision (<strong>3DV</strong>), 2025.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</span>
-    </th>
-  </tr> 
-</table>
-
-
-<table style="width:120%">
-  <tr>
-    <th width="40%">
-      <img src="../images/garf.png" width="600"/>
-    </th>
-    <th style="text-align:left" width="60%">
-            <span style="font-size:18px">GARF: Geometry-aware generalized neural radiance field</span><br>
-            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
-            <span style="font-weight:normal;font-size:16px"> <strong>Displays</strong>, Under Review (Minor Revision).</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</span>
     </th>
   </tr> 
 </table>
