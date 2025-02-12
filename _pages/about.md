@@ -70,7 +70,7 @@ Research
             <span style="font-size:18px">GARF: Geometry-aware generalized neural radiance field</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
             <span style="font-weight:normal;font-size:16px"> <strong>Displays</strong>, 2025.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/15pLy91kHP60BxlSOwPGtEYY57L1Y47JP/view?usp=drive_link">Paper</a>]</span>
     </th>
   </tr> 
 </table>
