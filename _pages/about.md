@@ -46,7 +46,7 @@ My research interests lie at the intersection of computer vision and computer gr
 Research
 ------------
 
-<table style="width:100%">
+<table style="width:150%">
   <tr>
     <th width="40%">
       <img src="../images/图1.png" width="350"/>
