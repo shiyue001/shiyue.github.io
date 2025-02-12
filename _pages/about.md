@@ -72,7 +72,7 @@ Research
   <strong><span style="position:relative; top:0; left:5px;">Yue Shi</span><span style="position:relative; top:-2px; left:5px;">*</span></strong>, 
   Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool</span>
 </span><br>
-             <span style="font-weight:normal;font-size:16px">International Conference on 3D Vision (<strong>3DV</strong>), 2021.</span><br>
+             <span style="font-weight:normal;font-size:16px">International Conference on 3D Vision (<strong>3DV</strong>), 2025.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</span>
     </th>
   </tr> 
