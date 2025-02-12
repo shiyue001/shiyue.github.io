@@ -71,7 +71,8 @@ Research
   <span style="font-weight:normal">Jiameng Li<span style="position:relative; top:-2px; left:5px;">*</span>, 
   <strong><span style="position:relative; top:0; left:5px;">Yue Shi</span><span style="position:relative; top:-2px; left:5px;">*</span></strong>, 
   Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool</span>
-</span>
+</span><br>
+             <span style="font-weight:normal;font-size:16px">International Conference on 3D Vision(<strong>3DV</strong>), 2021.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.06286">Paper</a>]</span>
     </th>
   </tr> 
@@ -81,12 +82,12 @@ Research
 <table style="width:120%">
   <tr>
     <th width="40%">
-      <img src="../images/图2.png" width="600"/>
+      <img src="../images/garf.png" width="600"/>
     </th>
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">GARF: Geometry-aware generalized neural radiance field</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">arXiv preprint, 2022.</span><br>
+            <span style="font-weight:normal;font-size:16px">Displays, Under Review (Minor Revision).</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2212.02280.pdf">Paper</a>]</span>
     </th>
   </tr> 
@@ -95,12 +96,13 @@ Research
 <table style="width:120%">
   <tr>
     <th width="40%">
-      <img src="../images/图5.png" width="350"/>
+      <img src="../images/edit.png" width="350"/>
     </th>
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">Learning Geometry and Appearance for Improved Radiance Fields Editing</span><br>
             <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Rui Shi, Yuxuan Xiong, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Luc Van Gool</span></span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo</a>]</span>
+      <span style="font-weight:normal;font-size:16px">International Journal of Computer Vision (IJCV), Under Review.</span><br>      
+      <span style="font-weight:normal;font-size:16px">[<a href="https://drive.google.com/file/d/1hVSAEM82ibnsklURHG0SC8ZoE7RYStew/view?usp=drive_link">Demo</a>]</span>
     </th>
   </tr> 
 </table>
@@ -124,7 +126,7 @@ Research
 <table style="width:120%">
   <tr>
     <th width="40%">
-      <img src="../images/图4.png" width="350"/>
+      <img src="../images/focal.png" width="350"/>
     </th>
     <th style="text-align:left" width="60%">
             <span style="font-size:18px">FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly</span><br>
