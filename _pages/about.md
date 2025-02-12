@@ -110,13 +110,12 @@ Research
 <table style="width:120%">
   <tr>
     <th width="40%">
-      <img src="../images/图3.png" width="350"/>
+      <img src="../images/hi.png" width="350"/>
     </th>
     <th style="text-align:left" width="60%">
-            <span style="font-size:18px">USR: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
-            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
-                  <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>]</span>
+            <span style="font-size:18px">Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Jiezhang Cao, Yulun Zhang, Bingbing Ni, Wenjun Zhang, Marc Pollefeys, Luc Van Gool</span></span><br>
+            <span style="font-weight:normal;font-size:16px">Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), Under Review.</span>
     </th>
   </tr> 
 </table>
@@ -168,16 +167,16 @@ Research
 <table style="width:120%">
   <tr>
     <th width="40%">
-      <img src="../images/hi.png" width="350"/>
+      <img src="../images/图3.png" width="350"/>
     </th>
     <th style="text-align:left" width="60%">
-            <span style="font-size:18px">Hi-NeRF: Continuous High-Resolution Neural Radiance Field with Volume Feature Rendering</span><br>
-            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Jiezhang Cao, Yulun Zhang, Bingbing Ni, Wenjun Zhang, Marc Pollefeys, Luc Van Gool</span></span><br>
-            <span style="font-weight:normal;font-size:16px">Submitted to IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), Under Review.</span>
+            <span style="font-size:18px">USR: Unsupervised separated 3d garment and human reconstruction via geometry and semantic consistency</span><br>
+            <span style="font-size:16px">Yue Shi<span style="font-weight:normal">, Yuxuan Xiong, Bingbing Ni, Wenjun Zhang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
+                  <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.10518.pdf">Paper</a>]</span>
     </th>
   </tr> 
 </table>
-
 
 
 
